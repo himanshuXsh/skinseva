@@ -1,5 +1,1 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Our AI-powered system uses CNN and ResNet models to detect skin diseases from selfies, supports multiple languages, features an AI chatbot, generates detailed patient reports, validates image inputs, and records skin history. It guides users to clinics, informs about healthcare schemes, and promotes accessible dermatology for all communities.
